@@ -1,0 +1,19 @@
+{
+  "name": "workers-test-deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workerscourse/workers-test-deploy.git"
+  },
+  "author": "Charles-Axel Pauwels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workerscourse/workers-test-deploy/issues"
+  },
+  "homepage": "https://github.com/workerscourse/workers-test-deploy#readme"
+}
